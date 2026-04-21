@@ -10,10 +10,10 @@
     <ul>
         <li><span class = "bold">Name: </span>Anum Chohan</li>
         <li><span class = "bold">GitHub Location: </span><a href = "https://github.com/anum30/anumTERP.git">https://github.com/anum30/anumTERP.git</a></li>
-        <li><span class = "bold">Render Location: </span><a href = ""></a></li>
-        <li><span class = "bold">Clearing Database: </span><a href = ""></a></li>
-        <li><span class = "bold">Inserting Movies: </span><a href = ""></a></li>
-        <li><span class = "bold">List Moives: </span><a href = ""></a></li>
+        <li><span class = "bold">Render Location: </span><a href = "https://anumterp.onrender.com">https://anumterp.onrender.com</li></a>
+        <li><span class = "bold">Clearing Database: </span><a href = "https://anumterp.onrender.com/clearCollection">https://anumterp.onrender.com/clearCollection</li></a>
+        <li><span class = "bold">Inserting Movies: </span><a href = "https://anumterp.onrender.com/insertMovies">https://anumterp.onrender.com/insertMovies</li></a>
+        <li><span class = "bold">List Moives: </span><a href = "https://anumterp.onrender.com/listMovies">https://anumterp.onrender.com/listMovies</li></a>
     </ul>
 </body>
 </html>
